@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -I/home/oliwi/pipr/cpp2/googletest/include -I/home/oliwi/pipr/cpp2/cpp2 -isystem /home/oliwi/pipr/cpp2/googletest/googletest/include -isystem /home/oliwi/pipr/cpp2/googletest/googletest -g -o CMakeFiles/mytests.dir/mytests.cpp.o -c /home/oliwi/pipr/cpp2/mytests.cpp",
+  "file": "/home/oliwi/pipr/cpp2/mytests.cpp"
+},
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -I/home/oliwi/pipr/cpp2/googletest/include -I/home/oliwi/pipr/cpp2/cpp2 -isystem /home/oliwi/pipr/cpp2/googletest/googletest/include -isystem /home/oliwi/pipr/cpp2/googletest/googletest -g -o CMakeFiles/mytests.dir/histogram.cpp.o -c /home/oliwi/pipr/cpp2/histogram.cpp",
+  "file": "/home/oliwi/pipr/cpp2/histogram.cpp"
+},
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -I/home/oliwi/pipr/cpp2/googletest/googlemock/include -I/home/oliwi/pipr/cpp2/googletest/googlemock -isystem /home/oliwi/pipr/cpp2/googletest/googletest/include -isystem /home/oliwi/pipr/cpp2/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/oliwi/pipr/cpp2/googletest/googlemock/src/gmock-all.cc",
+  "file": "/home/oliwi/pipr/cpp2/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -isystem /home/oliwi/pipr/cpp2/googletest/googlemock/include -isystem /home/oliwi/pipr/cpp2/googletest/googlemock -isystem /home/oliwi/pipr/cpp2/googletest/googletest/include -isystem /home/oliwi/pipr/cpp2/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/oliwi/pipr/cpp2/googletest/googlemock/src/gmock_main.cc",
+  "file": "/home/oliwi/pipr/cpp2/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -I/home/oliwi/pipr/cpp2/googletest/googletest/include -I/home/oliwi/pipr/cpp2/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/oliwi/pipr/cpp2/googletest/googletest/src/gtest-all.cc",
+  "file": "/home/oliwi/pipr/cpp2/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/oliwi/pipr/cpp2/build",
+  "command": "/usr/bin/c++ -isystem /home/oliwi/pipr/cpp2/googletest/googletest/include -isystem /home/oliwi/pipr/cpp2/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/oliwi/pipr/cpp2/googletest/googletest/src/gtest_main.cc",
+  "file": "/home/oliwi/pipr/cpp2/googletest/googletest/src/gtest_main.cc"
+}
+]

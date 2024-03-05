@@ -1,0 +1,16 @@
+0  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+Median of this series of numbers is 0
+The most frequent digit is 0,
+It appears 0 times
+The least frequent digit is 0,
+It appears 0 times
+Numbers of digit:0

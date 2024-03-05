@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/mytests.dir/mytests.cpp.o CMakeFiles/mytests.dir/histogram.cpp.o -o mytests  lib/libgtest.a 
